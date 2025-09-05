@@ -96,7 +96,7 @@ locust==2.24.1
 
 # ============ OAUTH2 & SECURITY ============
 # Mercado Livre OAuth2 requirements
-aiohttp==3.10.11
+aiohttp==3.12.15
 cryptography==43.0.1
 slowapi==0.1.9  # Rate limiting
 bcrypt==4.2.1
