@@ -82,7 +82,7 @@ click==8.1.7
 
 # ============ TESTING (OPCIONAL) ============
 pytest==8.4.1
-pytest-asyncio==0.21.1
+pytest-asyncio==1.1.0
 pytest-cov==4.1.0
 pytest-mock==3.11.1
 pytest-regressions==2.8.2
