@@ -78,7 +78,7 @@ sentry-sdk[fastapi]==2.18.0
 # ============ UTILITIES ============
 joblib==1.3.0
 six==1.17.0
-click==8.1.7
+click==8.1.8
 
 # ============ TESTING (OPCIONAL) ============
 pytest==8.4.1
