@@ -23,7 +23,7 @@ httpx==0.28.1
 requests==2.32.3
 
 # ============ ASYNC & REDIS ============
-redis==5.2.1
+redis==6.4.0
 aioredis==2.0.1
 celery==5.4.0
 
