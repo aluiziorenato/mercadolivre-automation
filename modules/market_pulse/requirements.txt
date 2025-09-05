@@ -45,7 +45,7 @@ torch==2.8.0
 transformers==4.47.1
 scikit-learn==1.6.0
 pandas==2.2.0
-numpy==1.26.0
+numpy==2.0.2
 scipy==1.11.0
 
 # ============ NLP & TEXT PROCESSING ============
