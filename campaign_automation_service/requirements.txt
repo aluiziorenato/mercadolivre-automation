@@ -65,7 +65,7 @@ prophet==1.1.5
 
 # ============ DATA VISUALIZATION ============
 matplotlib==3.7.0
-seaborn==0.12.0
+seaborn==0.13.2
 plotly==5.17.0
 
 # ============ MONITORING & LOGGING ============
