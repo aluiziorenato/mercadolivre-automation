@@ -56,7 +56,7 @@ textstat==0.7.3
 # ============ ML EXPERIMENTATION ============
 mlflow==2.18.0
 optuna==3.4.0
-scikit-optimize==0.9.0
+scikit-optimize==0.10.2
 
 # ============ ML MODELS & ALGORITHMS ============
 xgboost==2.1.4
