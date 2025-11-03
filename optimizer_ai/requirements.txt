@@ -81,7 +81,7 @@ six==1.17.0
 click==8.1.7
 
 # ============ TESTING (OPCIONAL) ============
-pytest==8.4.1
+pytest==8.4.2
 pytest-asyncio==0.21.1
 pytest-cov==4.1.0
 pytest-mock==3.11.1
